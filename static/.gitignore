@@ -1,0 +1,3 @@
+# ignore remnant vim backup/swap files
+.*.*~
+*.*.swp
